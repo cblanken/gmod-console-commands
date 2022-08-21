@@ -1,0 +1,9 @@
+{
+  "title": "Console Command Library",
+  "type": "tool",
+  "ignore": [
+    ".git*",
+    ".vscode*",
+    "*.md"
+  ]
+}
